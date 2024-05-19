@@ -73,4 +73,4 @@ That's All.
 Regards from Ahosan.
 
 
-Medium:
+Medium: https://medium.com/@ahosanhabib.974/oracle-database-19c-redo-log-resizing-5094cdb67fae
