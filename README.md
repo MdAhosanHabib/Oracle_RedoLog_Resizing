@@ -62,8 +62,8 @@ sql> ALTER DATABASE CLEAR UNARCHIVED LOGFILE GROUP 1;
 sql> select group#, sequence#, bytes, archived, status, members from v$log;
 
 sql> alter database drop logfile group 1;
-
 ```
+
 
 Then, delete the old one by one.
 
