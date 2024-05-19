@@ -63,8 +63,9 @@ sql> select group#, sequence#, bytes, archived, status, members from v$log;
 
 sql> alter database drop logfile group 1;
 
-Then, delete the old one by one.
 ```
+
+Then, delete the old one by one.
 
 
 That's All.
